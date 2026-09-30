@@ -71,3 +71,9 @@ screenshots/
 /.diag*.mjs
 /.compare*.mjs
 /.narrow*.mjs
+
+# Dados de importacao do CRM: contem dados pessoais de leads e contatos.
+# Mantidos fora do versionamento de proposito.
+PETE_Reativacao_Base_2027.xlsx
+previa_importacao.csv
+rejeitados.csv
